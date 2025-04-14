@@ -7,7 +7,7 @@ int num1 = Convert.ToInt32(Console.ReadLine());
 int a = num1 % 2;
 
 
-if(a != 0){
+if(a != 2){
   Console.WriteLine($" {num1} is an odd number. ");  
 }
 else{
